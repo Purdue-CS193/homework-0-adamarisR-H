@@ -1,3 +1,11 @@
+# Adamaris Ruiz-Herrera's First CS193 Homework
+
+Some of my favorite things about CS193 are...
+- being in a class with my friend
+- learning how to properly use tools hopefully before one of my CS180 assignments asks me to use them
+- no scary exams yayyy
+- discovering new things
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
