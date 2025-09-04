@@ -25,6 +25,19 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+```markdown
+
+what did you say this was
+
+```
+- this
+- is
+- supposed
+- to
+- do
+- _something_
+
+`Or does it`
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
